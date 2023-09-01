@@ -1,6 +1,9 @@
 # Codellama locally with gradio and hugging face
 A primer to AI applications with the aim of writing an open source, on premises personal code assistant.
 
+![Kindly created by stable diffusion XL](LLaMa.png)
+
+
 This article is addressed to beginners, all those developers who have not yet had the opportunity (or the courage) to try their hand at generative AI applications. 
 After reading it, we will know how to implement a chatbot, based on the codellama model, capable of assisting in code writing. For the heavy lifting, we will employ the excellent huggingface library while the web interface will be based on gradio project. We will have the opportunity to introduce Google's online collaboratory colab, which will allow us to bypass the computational limits of our laptops.
 
