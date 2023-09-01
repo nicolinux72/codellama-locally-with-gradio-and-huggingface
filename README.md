@@ -11,5 +11,5 @@ We will write it all in basic Python code, understandable by anyone who knows an
 
 The implementation of the chatbot will serve as fil rouge to introduce the coarser elements of Natural Language Processing (NLP), provide a basic glossary, advise on minor autonomous modifications to the project, and point out in-depth studies by drawing on the annotated bibliography at the end of the article.
 
-Please read full article ad [medium.com](https://medium.com/@nicolasanti_43152/local-code-llama-with-gradio-and-hugging-face-1153112046ec)
+Please read full article at [medium.com](https://medium.com/@nicolasanti_43152/local-code-llama-with-gradio-and-hugging-face-1153112046ec)
 
